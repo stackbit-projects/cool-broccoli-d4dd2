@@ -38,7 +38,7 @@
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
-                "style": "link",
+                "style": "secondary",
                 "elementId": "",
                 "type": "Link"
             }
