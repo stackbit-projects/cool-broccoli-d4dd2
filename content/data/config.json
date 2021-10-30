@@ -33,7 +33,7 @@
             },
             {
                 "label": "Contact us",
-                "altText": "Learn more",
+                "altText": "contact",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
